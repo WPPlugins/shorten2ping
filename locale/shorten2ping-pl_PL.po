@@ -1,0 +1,280 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Shorten2Ping 1.3.7\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-10-28 02:15+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Darek Skonieczka <darek@netma.pl>\n"
+"Language-Team: Samuel Aguilera <correo@samuelaguilera.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: Spain\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: shorten2ping.php:53
+msgid "Short URL"
+msgstr "Adres skrócony"
+
+#: shorten2ping.php:311
+msgid "Shorten2Ping Options"
+msgstr "Shorten2Ping Opcje"
+
+#: shorten2ping.php:313
+msgid "Shorten2Ping allows you to update status at Ping.fm whenever a new blog entry is published.  To start using it, simply enter the required information below, and press update information button. You only need to fill data for the services you want to use."
+msgstr "Shorten2Ping pozwala na zmiane statusu w serwisie Ping.fm kiedykolwiek publikujesz coś nowego. Aby uruchomić wystarczy wypełnić informację poniżej i kliknąć przycisk upgrade.Potrzebujesz jedynie wybrać serwis jaki chcesz używać."
+
+#: shorten2ping.php:315
+msgid "You can also customize the message for the status notification by using the \"message\" field below.  You can use [title] to represent the title of the blog entry, [link] to represent the permalink, and [tags] to convert post tags into Twitter hashtags."
+msgstr "Możesz spersonalizować status wiadomość używająć pola  \"message\". Możesz użyć atrybutu  [title] dla tytułu Twojego Bloga,atrybut [link] do wyświetlania linku i atrybutu [tags] do zamiany w Tagi Twittera."
+
+#: shorten2ping.php:321
+msgid "General"
+msgstr "Ogólne"
+
+#: shorten2ping.php:322
+msgid "Notification"
+msgstr "Przypomnienie"
+
+#: shorten2ping.php:323
+msgid "Shorteners"
+msgstr "Skrócone"
+
+#: shorten2ping.php:354
+#: shorten2ping.php:403
+#: shorten2ping.php:427
+msgid "Setting"
+msgstr "Ustawienia"
+
+#: shorten2ping.php:356
+#: shorten2ping.php:405
+#: shorten2ping.php:429
+msgid "Description"
+msgstr "Opis"
+
+#: shorten2ping.php:360
+msgid "Status Message"
+msgstr "Status wiadomości"
+
+#: shorten2ping.php:362
+msgid "You can use [title] for the post title, [link] for the short link, and [tags] to use posts tags as Twitter hashtags. Example: New post, [title] [link] [tags]"
+msgstr "Możesz użyć atrybutu [title] dla tytułu postu, [link] dla skróconego linki i [tags] dla tagów wiadomości dla Twittera. Przykład: Nowy post, [title] [link] [tags]"
+
+#: shorten2ping.php:367
+msgid "Shorten Permalinks With:"
+msgstr "Skrócone linki z:"
+
+#: shorten2ping.php:369
+msgid "bit.ly"
+msgstr "bit.ly"
+
+#: shorten2ping.php:370
+#: shorten2ping.php:441
+msgid "wp.me"
+msgstr "wp.me"
+
+#: shorten2ping.php:371
+#: shorten2ping.php:460
+msgid "su.pr"
+msgstr "su.pr"
+
+#: shorten2ping.php:372
+msgid "is.gd"
+msgstr "is.gd"
+
+#: shorten2ping.php:373
+msgid "j.mp"
+msgstr "j.mp"
+
+#: shorten2ping.php:374
+#: shorten2ping.php:467
+msgid "cli.gs"
+msgstr "cli.gs"
+
+#: shorten2ping.php:375
+#: shorten2ping.php:448
+msgid "YOURLS"
+msgstr "TWOJE LINKI"
+
+#: shorten2ping.php:376
+msgid "Self domain"
+msgstr "Domena głowna"
+
+#: shorten2ping.php:377
+#: shorten2ping.php:387
+msgid "None"
+msgstr "Brak"
+
+#: shorten2ping.php:379
+msgid "Choose to make short URLs using any of the shorteners or turn off this feature."
+msgstr "Wybierz adresy URLs które mają zostać skrócone."
+
+#: shorten2ping.php:383
+msgid "Send Notification To:"
+msgstr "Wyślij powiadomienie do:"
+
+#: shorten2ping.php:385
+msgid "Ping.fm user key"
+msgstr "Ping.fm nazwa użytkownika"
+
+#: shorten2ping.php:386
+msgid "Ping.fm email"
+msgstr "Email Ping.fm"
+
+#: shorten2ping.php:389
+msgid "Choose to send notification to Ping.fm using user key, posting email, or turn off this feature."
+msgstr "Wybierz powiadomienie które zostanie wysłane do Ping.fm używając Twojego konta w serwisie."
+
+#: shorten2ping.php:409
+msgid "Ping.fm"
+msgstr "Ping.fm"
+
+#: shorten2ping.php:410
+#: shorten2ping.php:435
+#: shorten2ping.php:462
+msgid "API Key"
+msgstr "Klucz API"
+
+#: shorten2ping.php:411
+msgid "Posting email"
+msgstr "Wysłanie wiadomości"
+
+#: shorten2ping.php:413
+msgid "Put your Ping.fm <a href=\"http://ping.fm/key/\">API key</a> here or your \"secret\" <a href=\"http://ping.fm/email/\">posting email</a>."
+msgstr "Wstawr Ping.fm <a href=\"http://ping.fm/key/\">API key</a> Twój kluczr \"secret\" <a href=\"http://ping.fm/email/\">Wyślij wiadomość</a>."
+
+#: shorten2ping.php:433
+msgid "bit.ly or j.mp"
+msgstr "bit.ly o j.mp"
+
+#: shorten2ping.php:434
+#: shorten2ping.php:461
+msgid "API Login"
+msgstr "Usuario API"
+
+#: shorten2ping.php:437
+msgid "Put here your API login and <a href=\"http://bit.ly/account/\">Bit.ly</a> API key. This is the same for <a href=\"http://j.mp/account/\">J.mp</a>."
+msgstr "Wstaw Twój login  klucza API l<a href=\"http://bit.ly/account/\">Bit.ly</a> Klucz Api to samo<a href=\"http://j.mp/account/\">J.mp</a>."
+
+#: shorten2ping.php:442
+msgid "WordPress API Key"
+msgstr "Klucz Api Wordpressa"
+
+#: shorten2ping.php:444
+msgid "Put here your <a href=\"http://en.support.wordpress.com/api-keys/\">API key from wordpress.com</a> account."
+msgstr "Wstaw <a href=\"http://en.support.wordpress.com/api-keys/\">Klucz API wordpress.com</a> account."
+
+#: shorten2ping.php:449
+msgid "Username"
+msgstr "Użytkownik"
+
+#: shorten2ping.php:450
+msgid "Password"
+msgstr "Hasło"
+
+#: shorten2ping.php:451
+msgid "Put here your username and password for <a href=\"http://yourls.org/\">YOURLS</a>."
+msgstr "Wpisz nazwę użytkownika i hasło <a href=\"http://yourls.org/\">TWOJE LINKI</a>."
+
+#: shorten2ping.php:455
+msgid "YOURLS API URL"
+msgstr "TWOJE LINKI API"
+
+#: shorten2ping.php:456
+msgid "Example: http://example.com/yourls-api.php"
+msgstr "Przykład: http://example.com/yourls-api.php"
+
+#: shorten2ping.php:463
+msgid "Put here your API login and <a href=\"http://su.pr/settings/\">Su.pr</a> API key."
+msgstr "Wstaw Login i Twoje API <a href=\"http://su.pr/settings/\">Su.pr</a> Klucz API"
+
+#: shorten2ping.php:468
+msgid "cli.gs API Key"
+msgstr "cli.gs Klucz Api"
+
+#: shorten2ping.php:470
+msgid "Put here your <a href=\"http://cli.gs/user/api\">API key from cli.gs</a> account."
+msgstr "Podaj <a href=\"http://cli.gs/user/api\">clave klucz API</a> konto"
+
+#: shorten2ping.php:478
+msgid "Save settings"
+msgstr "Zapisz ustawienia"
+
+#: shorten2ping.php:481
+msgid "If you find this plugin useful, please consider to make a donation to Shorten2Ping's author (any amount will be appreciated)."
+msgstr "Jeśli wtyczka okazała się pomocna wspomóż autora. ( każda kwota będzie pomocna)"
+
+#: shorten2ping.php:511
+msgid "Go to settings page"
+msgstr "Idz do strony z ustawieniami"
+
+#: shorten2ping.php:511
+msgid "Settings"
+msgstr "Ustawienia"
+
+#~ msgid "Reset settings"
+#~ msgstr "Reiniciar ajustes"
+
+#~ msgid "Settings saved."
+#~ msgstr "Ajustes de Shorten2Ping guardados."
+
+#~ msgid "tr.im"
+#~ msgstr "tr.im"
+
+#~ msgid "Twitter"
+#~ msgstr "Twitter"
+
+#~ msgid ""
+#~ "Unfortunately <a href=\"http://twitter.com\">Twitter</a> doesn't have API "
+#~ "keys for users, so you must put here your user login and password if you "
+#~ "want to use this service."
+#~ msgstr ""
+#~ "Lamentablemente <a href=\"http://twitter.com\">Twitter</a> no tiene "
+#~ "claves API para usuarios, así que debes poner aquí tu usuario y "
+#~ "contraseña si quieres usar este servicio."
+
+#~ msgid ""
+#~ "Unfortunately <a href=\"http://tr.im\">Tr.im</a> doesn't have API keys "
+#~ "for users, so you must put here your user login and password if you want "
+#~ "to use this service."
+#~ msgstr ""
+#~ "Lamentablemente <a href=\"http://tr.im\">Tr.im</a> no tiene claves API "
+#~ "para usuarios, así que debes poner aquí tu usuario y contraseña si "
+#~ "quieres usar este servicio."
+
+#~ msgid "Both"
+#~ msgstr "Ambos"
+
+#~ msgid ""
+#~ "Max. 200 characters for Ping.fm (including real title and shortened url), "
+#~ "140 if you wish to send it to Twitter."
+#~ msgstr ""
+#~ "Max. 200 carácteres para Ping.fm (incluyendo título real y URL acortada), "
+#~ "140 si deseas enviarlo a Twitter."
+
+#~ msgid "Update Information"
+#~ msgstr "Actualizar información"
+
+#~ msgid "Twitter User Data"
+#~ msgstr "Datos usuario de Twitter"
+
+#~ msgid "Bit.ly Configuration"
+#~ msgstr "Configuración de Bit.ly"
+
+#~ msgid "Tr.im Configuration"
+#~ msgstr "Configuración de Tr.im"
+
+#~ msgid "YOURLS Configuration"
+#~ msgstr "Configuración de YOURLS"
+
+#~ msgid "Su.pr Configuration"
+#~ msgstr "Configuración de Su.pr"
+
+#~ msgid "Bit.ly API Data"
+#~ msgstr "Datos de API de Bit.ly"
+
+#~ msgid "Tr.im User Data"
+#~ msgstr "Datos usuario Tr.im"
